@@ -4,6 +4,7 @@
  * @description Enables access to experiments and staff-only options for normal users (plugin is still in beta).
  * @version 1.0.2
  * @authorId 980377728165478470
+ * @updateUrl https://raw.githubusercontent.com/choco705/BetterDiscordplugins/main/Experiments.plugin.js
  */
 let wpRequire
 
